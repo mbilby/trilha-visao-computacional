@@ -1,0 +1,12 @@
+# Nexvisual — Trilha de Visão Computacional
+# Python 3.10+
+
+numpy>=1.26
+matplotlib>=3.8
+opencv-python>=4.9
+torch>=2.2
+torchvision>=0.17
+ultralytics>=8.2
+huggingface_hub>=0.23
+jupyterlab>=4.2
+ipywidgets>=8.1

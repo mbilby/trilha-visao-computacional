@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.eggs/
+dist/
+build/
+.venv/
+venv/
+.env
+.ssh/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Dados locais (datasets baixados em runtime)
+data/*
+!data/.gitkeep
+
+# Modelos e artefatos de treino
+runs/
+weights/
+*.pt
+*.pth
+*.onnx
+
+# SO / IDE
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
